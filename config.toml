@@ -1,9 +1,7 @@
 baseURL = 'https://ri-naka.github.io'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-sh-3.2# cat themes/HugoMDL/
-.gitignore   LICENSE      README.md    archetypes/  exampleSite/ images/      layouts/     static/      theme.toml
-sh-3.2# cat themes/HugoMDL/theme.toml
+
 # theme.toml for Hugo-MDL
 # See http://jatkinson.me for an example
 
